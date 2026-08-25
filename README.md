@@ -1,3 +1,5 @@
+# Public archive of Hyde incl. source, from the old AutoHotkey forum post
+
 # hyde
 <ins>**hyde.dll**</ins> hides a process from the Task Manager on Windows 2000 - Windows 10 (x86/x64 Bit).
 
